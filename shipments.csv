@@ -1,0 +1,6 @@
+shipment_id,drug,quantity,destination
+S101,Paracetamol,500,Mumbai
+S102,Amoxicillin,,Pune
+S103,Insulin,120,
+S104,Aspirin,abc,Delhi
+S105,Ibuprofen,300,Chennai

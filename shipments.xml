@@ -1,0 +1,5 @@
+<shipments>
+  <shipment id="S201"><drug>Paracetamol</drug><quantity>500</quantity><destination>Mumbai</destination></shipment>
+  <shipment id="S202"><drug>Insulin</drug><quantity></quantity><destination>Pune</destination></shipment>
+  <shipment id="S203"><drug>Aspirin</drug><quantity>abc</quantity></shipment>
+</shipments>
